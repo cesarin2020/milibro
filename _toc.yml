@@ -6,3 +6,7 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
+- file: MATERIAS
+- file: INVESTIGACION
+- file: OCIO
+- file: OTROS
